@@ -2,4 +2,4 @@
 layout: default
 ---
 
-|home|[people](./team)|[about](./about.md)|
+|home|[people](./team.md)|[about](./about.md)|

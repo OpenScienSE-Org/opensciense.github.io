@@ -2,5 +2,5 @@
 layout: default
 ---
 
-|[home](./index.md)|[people](./team.md)|[past editions](./pasteditions.md)|[about](./about.md)|
+|[home](./index.md)|[people](./team.md)|[workshops](./pasteditions.md)|[about](./about.md)|
 

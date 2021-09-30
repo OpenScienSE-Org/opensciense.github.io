@@ -4,5 +4,5 @@ layout: default
 
 |[home](./index.md)|[people](./team.md)|[workshops](./pasteditions.md)|[about](./about.md)|
 
-+ OpenScienSe 2022
++ [OpenScienSe 2022](https://openscience-se-org.github.io/opensciense2022.github.io/)
 + OpenScienSE 2021

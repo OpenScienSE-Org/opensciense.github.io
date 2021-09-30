@@ -2,9 +2,9 @@
 layout: default
 ---
 
-|[home](./index.md)|[people](./team.md)|[past editions](./pasteditions.md)|[about](./about.md)|
+|[home](./index.md)|[people](./team.md)|[workshops](./pasteditions.md)|[about](./about.md)|
 
-# OpenScienSE 2021
+# Open Science
 
 According to the <a href="https://en.unesco.org/science-sustainable-future/open-science" target="_blank">UNESCO</a> recommendation, 
 _Open Science is the movement to make scientific research and data accessible to all. 
@@ -25,4 +25,3 @@ Open Science principles are driven by the
 </p>
 -->
 
-Motivated by the internationally Open Science movement and the characteristics of the Software Engineering area, <b>OpenScienSE</b> is created as a way to provide researchers and practitioners a means for <b>exchanging experiences on how Open Science is applied to improve Software Engineering practices</b>.

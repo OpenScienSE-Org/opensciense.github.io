@@ -2,4 +2,6 @@
 layout: default
 ---
 
-|home|[people](./team.md)|[about](./about.md)|
+|[home](./index.md)|[people](./team.md)|[past editions](./pasteditions.md)|[about](./about.md)|
+
+Texto texto texto.
